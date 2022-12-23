@@ -4,7 +4,7 @@
 
 ## Link de la aplicación
 
-<https://gif's-react-skierhy.netlify.app/>
+<https://gifs-react-skierhy.netlify.app/>
 
 ## ¿Qué es?
 
